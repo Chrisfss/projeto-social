@@ -29,3 +29,9 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+iframe#tela{
+    position: relative;
+    top: 69px;
+    left: 33px;
+
+}
